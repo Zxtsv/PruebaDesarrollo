@@ -38,3 +38,23 @@
     background-size: cover;
     background-attachment: fixed;
 }
+
+.display-4{
+    font-family: var(--Rubik);
+}
+
+.col-sm > i{
+    font-size: 5rem;
+    color: var(--RedFuerte);
+}
+
+.col-sm > h3{
+    font-size: 2rem;
+    color: var(--AzulFuerte);
+    font-family: var(--Rubik);
+}
+
+.col-sm > .text{
+    color: gray;
+    font-size: 1.2rem;
+}
